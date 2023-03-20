@@ -1,2 +1,2 @@
 # MNIST-Digit-Recognizer-CNN
-MNIST_TF_CNN
+Handwritten digit classifier based on MNIST dataset using neural networks from tensorflow.
